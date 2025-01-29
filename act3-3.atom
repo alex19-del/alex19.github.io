@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmls="https://www.abc.es/">
+    <title>Noticias</title>
+    <link href="https://www.abc.es/?ref=https%3A%2F%2Fwww.abc.es%2F"/>
+    <updated>2025-01-29T10:00:00Z</updated>
+    <author>
+        <name>Alejandro Barrera</name>
+    </author>
+    <id>https://www.abc.es/?ref=https%3A%2F%2Fwww.abc.es%2F</id>
+    <entry>
+        <title>García Ortiz niega haber filtrado ningún correo del novio de Ayuso para perjudicarle y carga contra la fiscal Lastra</title>
+        <link href="https://www.abc.es/espana/garcia-ortiz-20250129105957-nt.html"/>
+        <id>https://www.abc.es/espana/garcia-ortiz-20250129105957-nt.html</id>
+        <updated>2025-01-29T10:00:00Z</updated>
+        <summary>El fiscal general del Estado denuncia ante el magistrado Ángel Hurtado que el registro en su despacho fue una «intromisión ilegítima»
+        Seis indicios que acorralan a García Ortiz, el primer fiscal general imputado en democracia</summary>
+    </entry>
+    <entry>
+        <title>Junts arranca al PSOE también que La 2 sea íntegramente en catalán</title>
+        <link href="https://www.abc.es/espana/cataluna/junts-arranca-psoe-integramente-catalan-20250129123359-nt.html"/>
+        <id>https://www.abc.es/espana/cataluna/junts-arranca-psoe-integramente-catalan-20250129123359-nt.html</id>
+        <updated>2025-01-29T10:00:00Z</updated>
+        <summary>Nogueras (Junts) y Dalmau (PSC) confirman que la sustitución del español en el segundo canal de TVE en Cataluña será progresivo</summary>
+    </entry>
+    <entry>
+        <title>Juanma Moreno rectifica y anuncia que se volverá a presentar a las elecciones</title>
+        <link href="https://www.abc.es/espana/andalucia/juanma-moreno-rectifica-anuncia-volvera-presentar-elecciones-20250129110836-nts.html"/>
+        <id>https://www.abc.es/espana/andalucia/juanma-moreno-rectifica-anuncia-volvera-presentar-elecciones-20250129110836-nts.html</id>
+        <updated>2025-01-29T10:00:00Z</updated>
+        <summary>El presidente de Andalucía alerta también de que «Sánchez ha doblegado al PSOE en Andalucía y lo ha convertido en una sucursal del sanchismo»</summary>
+    </entry>
